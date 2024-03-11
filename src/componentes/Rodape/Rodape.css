@@ -1,0 +1,21 @@
+.rodape-pagina {
+    background-color: #6278f7;
+    width: 100%;
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.rodape-pagina .elemento {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape-pagina img {
+    border-radius: 10%;
+    position: relative;
+    line-height: 12px;
+    margin: 4px;
+}
